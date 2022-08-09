@@ -1,4 +1,3 @@
-<!doctype HTML>
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faMessage } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
