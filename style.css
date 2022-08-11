@@ -4,8 +4,7 @@
 
 /* styling the header */
 header {
-    background-color: green;
-    padding: 30px;
+    background-color: lightblue;
     text-align: center;
 }
 
@@ -13,7 +12,7 @@ header {
 /* instead of using float and not having control, use display flex and flex direction on a container(parent element), not the child elements */
 .nav {
     overflow: hidden;
-    background-color: rgb(255, 251, 1);
+    background-color: cyan;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -26,7 +25,7 @@ header {
     
     text-align: center;
     display: block;
-    color: black;
+    color: lightblue;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -51,6 +50,6 @@ it represents a fraction of available space in the grid container. */
 }
 
 #about, #blog {
-    background-color: black;
-    color: white;
+    background-color: lightblue;
+    color: black;
 }
